@@ -47,7 +47,7 @@ There are clear differences between ride-sharing data among the different city t
 
 
 
-**There is three recommendations to the CEO to solve the disparities among the city types:**
+**There are three recommendations to the CEO to solve the disparities among the city types:**
 1. Increase the number of drivers in Rural and Suburban cities to offset the lower numbers of total drivers available in those two city types. Increasing the amount of drivers should increase the total rides and total fares.
 
 2. Decrease the average fare per driver. Rural city drivers costs 3 times more than that of Urban cities. Similiarly, Suburban city drivers costs more than double compare to Urban cities.
