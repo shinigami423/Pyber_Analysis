@@ -2,7 +2,7 @@
 ## Purpose
 Create a summary DataFrame of the ride-sharing data by city type then create a multiple-line gpraph showing total weekly fares for each city type.
 
-Using the summary, we can help the decision-makers by analyzing rideshare data at Pyber from January to early May of 2019 in order to improve access to ride-sharing services and determine affordability for underserves neighborhoods.
+Using the summary, we can help the decision-makers by analyzing rideshare data at Pyber from January to late April of 2019 in order to improve access to ride-sharing services and determine affordability for underserves neighborhoods.
 
 
 
