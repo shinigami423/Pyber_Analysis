@@ -24,7 +24,7 @@ We were provided the data files under "Resources" folder named "city_data.csv" a
 
 We obtain the above DataFrame by using various **groupby()** functions, chaining with **count()** and **sum()**, to create this DataFrame.
 
-### A Multiple-Line Chart of Total Fares for Each City Type
+### A Multiple-Line Chart of Total Fares for Each City Type**
 Using our DataFrame create from Pandas, we utilized two functions, **pivot()** and **resample**, to create a pivot table with selected indexes. The function **loc()** was used to select a specific timeframe we are looking for (Jan 1, 2019 to April 28, 2019).
 
 
@@ -41,13 +41,13 @@ Finally, we plotted our resample DataFrame using th object-oriented method, with
 ### Result
 There are clear differences between ride-sharing data among the different city types.
 - Total Rides, Total Drivers, and Totadl Fares in Urban cities surpass that of Suburban and Rural cities.
-	- **Urban > Suburban > Rural in terms of total rides/drivers/fares
+	- **Urban > Suburban > Rural in terms of total rides/drivers/fares**
 - The Average Fare per Ride and Average Fare per Driver are much lower in Urban cities then Suburban and Rural cities.
-	- **Rural > Suburban > Urban in terms of average fare per ride/driver.
+	- **Rural > Suburban > Urban in terms of average fare per ride/driver**
 
 
 
-**There is three recommendations to the CEO to solve the disparities among the city types:
+**There is three recommendations to the CEO to solve the disparities among the city types:**
 1. Increase the number of drivers in Rural and Suburban cities to offset the lower numbers of total drivers available in those two city types. Increasing the amount of drivers should increase the total rides and total fares.
 
 2. Decrease the average fare per driver. Rural city drivers costs 3 times more than that of Urban cities. Similiarly, Suburban city drivers costs more than double compare to Urban cities.
