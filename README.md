@@ -8,7 +8,7 @@ Using the summary, we can help the decision-makers by analyzing rideshare data a
 
 ## Analysis
 ### Dependencies
-There are two denpendencies for our program.The first is **__matplotlib.pyplot__** import necessary for us to create our visuals for presentation. Second, we imported **_pandas_** in order to make our DataFrame. (below)
+There are two denpendencies for our program.The first is **_matplotlib.pyplot_** import necessary for us to create our visuals for presentation. Second, we imported **_pandas_** in order to make our DataFrame. (below)
 
 ```ipynb:PyBer_Challenge.ipynb[1]
 import matplotlib.pyplot as plt
@@ -21,6 +21,7 @@ We were provided the data files under "Resources" folder named "city_data.csv" a
 
 ### A Ride-Sharing Summary DataFrame
 ![](pyber_summary.png)
+
 We obtain the above DataFrame by using various **groupby()** functions, chaining with **count()** and **sum()**, to create this DataFrame.
 
 ### A Multiple-Line Chart of Total Fares for Each City Type
