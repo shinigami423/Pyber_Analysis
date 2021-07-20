@@ -41,13 +41,13 @@ Finally, we plotted our resample DataFrame using th object-oriented method, with
 ### Result
 There are clear differences between ride-sharing data among the different city types.
 - Total Rides, Total Drivers, and Totadl Fares in Urban cities surpass that of Suburban and Rural cities.
-	- Urban > Suburban > Rural in terms of total rides/drivers/fares
+	- **Urban > Suburban > Rural in terms of total rides/drivers/fares
 - The Average Fare per Ride and Average Fare per Driver are much lower in Urban cities then Suburban and Rural cities.
-	- Rural > Suburban > Urban in terms of average fare per ride/driver.
+	- **Rural > Suburban > Urban in terms of average fare per ride/driver.
 
 
 
-There is three recommendations to the CEO to solve the disparities among the city types:
+**There is three recommendations to the CEO to solve the disparities among the city types:
 1. Increase the number of drivers in Rural and Suburban cities to offset the lower numbers of total drivers available in those two city types. Increasing the amount of drivers should increase the total rides and total fares.
 
 2. Decrease the average fare per driver. Rural city drivers costs 3 times more than that of Urban cities. Similiarly, Suburban city drivers costs more than double compare to Urban cities.
