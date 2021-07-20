@@ -24,7 +24,6 @@ We were provided the data files under "Resources" folder named "city_data.csv" a
 We obtain the above DataFrame by using various **groupby()** functions, chaining with **count()** and **sum()**, to create this DataFrame.
 
 ### A Multiple-Line Chart of Total Fares for Each City Type
-![](Challenge_fare_summary.png)
 Using our DataFrame create from Pandas, we utilized two functions, **pivot()** and **resample**, to create a pivot table with selected indexes. The function **loc()** was used to select a specific timeframe we are looking for (Jan 1, 2019 to April 28, 2019).
 
 
@@ -35,7 +34,7 @@ This line of code is used to convert our "date" index into a datetime datatype n
 
 ![](datetime.png)
 
-Finally, we plotted our resample DataFrame using th object-oriented method. **(below)**
+Finally, we plotted our resample DataFrame using th object-oriented method, with title and labels on each axis. **(below)**
 ![](Challenge_fare_summary.png)
 
 ### Result
